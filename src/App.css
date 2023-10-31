@@ -1,0 +1,16 @@
+.title {
+  background-color: #c4c4c4;
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+.content {
+  background-color: #c4c4c4;
+  width: 500px;
+  height: 300px;
+}
+
+h2 {
+  color: black;
+  font-size: 45px;
+}
